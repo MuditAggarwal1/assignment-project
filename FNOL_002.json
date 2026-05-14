@@ -1,0 +1,27 @@
+{
+  "document": "FNOL_002.txt",
+  "extractedFields": {
+    "policy_number": "POL-HOME-2023-44211",
+    "policyholder_name": "Priya Mehta",
+    "policy_effective_date": "15/06/2023",
+    "policy_expiry_date": "14/06/2025",
+    "incident_date": "22/03/2024",
+    "incident_time": "03:15",
+    "incident_location": "14B, Lakeview Apartments, Powai, Mumbai, Maharashtra - 400076",
+    "incident_description": "A major water pipe burst on the 4th floor during the night, causing extensive flooding to the policyholder's 3rd floor apartment. Damage includes warped hardwood flooring, damaged drywall and electrical fixtures, destroyed furniture and appliances.",
+    "claimant_name": "Priya Mehta",
+    "claimant_contact": "+91-99887-76655",
+    "claimant_email": "priya.mehta@corporateemail.com",
+    "third_party_name": "Society Maintenance Committee",
+    "third_party_contact": "Suresh Nair, +91-98110-22334",
+    "asset_type": "Residential Property",
+    "asset_id": "Flat No. 3B, Lakeview Apartments, Powai",
+    "estimated_damage_inr": 87000,
+    "claim_type": "Property Damage",
+    "attachments": ["Water_Damage_Photos.pdf", "Plumber_Report.pdf", "Repair_Quotes.xlsx"],
+    "initial_estimate_inr": 87000
+  },
+  "missingFields": [],
+  "recommendedRoute": "Standard Review",
+  "reasoning": "Estimated damage (INR 87,000) exceeds the fast-track threshold of INR 25,000. All mandatory fields are present and no fraud indicators detected. Assigned to standard claims review workflow."
+}

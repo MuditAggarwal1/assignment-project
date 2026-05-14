@@ -1,0 +1,41 @@
+FIRST NOTICE OF LOSS - DOCUMENT ID: FNOL-2024-001
+=======================================================
+
+POLICY INFORMATION
+------------------
+Policy Number: POL-AUTO-2024-78432
+Policyholder Name: Rajesh Kumar Sharma
+Policy Effective Date: 01/01/2024
+Policy Expiry Date: 31/12/2024
+
+INCIDENT INFORMATION
+--------------------
+Date of Incident: 15/03/2024
+Time of Incident: 14:35
+Location: NH-48, Near Gurugram Toll Plaza, Haryana
+Description: Policyholder's vehicle was rear-ended by a speeding truck while waiting at toll plaza. Vehicle sustained damage to rear bumper, trunk, and tail lights. No airbag deployment. Driver experienced minor neck stiffness but did not require hospitalization.
+
+INVOLVED PARTIES
+----------------
+Claimant: Rajesh Kumar Sharma
+Claimant Contact: +91-98765-43210
+Claimant Email: rajesh.sharma@email.com
+Third Party: Truck Driver - Ram Singh (License No. HR-05-2019-123456)
+Third Party Vehicle: Tata Prima Truck, Reg No. HR-05-AB-1234
+Third Party Contact: +91-87654-32109
+
+ASSET DETAILS
+-------------
+Asset Type: Motor Vehicle
+Asset ID / Registration: DL-01-XY-5678
+Vehicle Make/Model: Maruti Suzuki Swift Dzire (2022)
+Estimated Damage: INR 18,500
+
+CLAIM INFORMATION
+-----------------
+Claim Type: Property Damage
+Attachments: Photos_FNOL001.zip, Police_Report_GGN_2024.pdf
+Initial Estimate: INR 18,500
+
+Submitted by: Rajesh Kumar Sharma
+Submission Date: 16/03/2024

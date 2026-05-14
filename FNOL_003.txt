@@ -1,0 +1,39 @@
+FIRST NOTICE OF LOSS - DOCUMENT ID: FNOL-2024-003
+=======================================================
+
+POLICY INFORMATION
+------------------
+Policy Number: POL-HEALTH-2024-10029
+Policyholder Name: Amit Verma
+Policy Effective Date: 01/04/2024
+Policy Expiry Date: 31/03/2025
+
+INCIDENT INFORMATION
+--------------------
+Date of Incident: 10/04/2024
+Time of Incident: 09:50
+Location: Construction Site, Sector 62, Noida, Uttar Pradesh
+Description: Policyholder sustained injuries due to scaffolding collapse at worksite. Injuries include fractured left arm (radius), bruised ribs (3 fractures confirmed via X-ray), and lacerations on the forehead requiring stitches. Admitted to Max Hospital Noida for 3 days. Post-discharge physiotherapy has been recommended.
+
+INVOLVED PARTIES
+----------------
+Claimant: Amit Verma
+Claimant Contact: +91-70099-88776
+Claimant Email: amit.verma.noida@gmail.com
+Third Parties: Site Contractor - BuildRight Constructions Pvt. Ltd.
+Third Party Contact: HR Dept, +91-11-45678901
+
+ASSET DETAILS
+-------------
+Asset Type: N/A (Personal Injury Claim)
+Asset ID: N/A
+Estimated Damage: INR 42,000 (Medical Bills + Loss of Income)
+
+CLAIM INFORMATION
+-----------------
+Claim Type: Injury
+Attachments: Hospital_Discharge_Summary.pdf, Medical_Bills.pdf, X-Ray_Reports.zip
+Initial Estimate: INR 42,000
+
+Submitted by: Amit Verma
+Submission Date: 14/04/2024

@@ -1,0 +1,27 @@
+{
+  "document": "FNOL_003.txt",
+  "extractedFields": {
+    "policy_number": "POL-HEALTH-2024-10029",
+    "policyholder_name": "Amit Verma",
+    "policy_effective_date": "01/04/2024",
+    "policy_expiry_date": "31/03/2025",
+    "incident_date": "10/04/2024",
+    "incident_time": "09:50",
+    "incident_location": "Construction Site, Sector 62, Noida, Uttar Pradesh",
+    "incident_description": "Policyholder sustained injuries due to scaffolding collapse at worksite. Injuries include fractured left arm (radius), bruised ribs (3 fractures confirmed via X-ray), and lacerations on the forehead requiring stitches. Admitted to Max Hospital Noida for 3 days.",
+    "claimant_name": "Amit Verma",
+    "claimant_contact": "+91-70099-88776",
+    "claimant_email": "amit.verma.noida@gmail.com",
+    "third_party_name": "BuildRight Constructions Pvt. Ltd.",
+    "third_party_contact": "+91-11-45678901",
+    "asset_type": "N/A (Personal Injury Claim)",
+    "asset_id": null,
+    "estimated_damage_inr": 42000,
+    "claim_type": "Injury",
+    "attachments": ["Hospital_Discharge_Summary.pdf", "Medical_Bills.pdf", "X-Ray_Reports.zip"],
+    "initial_estimate_inr": 42000
+  },
+  "missingFields": [],
+  "recommendedRoute": "Specialist Queue",
+  "reasoning": "Claim type is classified as 'Injury'. Routed to specialist medical/legal claims handlers who are equipped to assess bodily injury, liability, and rehabilitation costs."
+}

@@ -1,0 +1,40 @@
+FIRST NOTICE OF LOSS - DOCUMENT ID: FNOL-2024-004
+=======================================================
+
+POLICY INFORMATION
+------------------
+Policy Number: POL-AUTO-2023-55901
+Policyholder Name: Deepak Joshi
+Policy Effective Date: 10/10/2023
+Policy Expiry Date: 09/10/2024
+
+INCIDENT INFORMATION
+--------------------
+Date of Incident: 01/04/2024
+Time of Incident: 23:45
+Location: Isolated stretch, Old Mumbai-Pune Highway, Maharashtra
+Description: Claimant states vehicle was struck by an unidentified vehicle that fled the scene. Incident occurred on a poorly lit isolated road with no witnesses. Timeline appears inconsistent with the vehicle's GPS data which shows the car was parked at a different location. Damage pattern is inconsistent with the described collision angle. A third-party mechanic indicated the damage may have been staged prior to the reported incident.
+
+INVOLVED PARTIES
+----------------
+Claimant: Deepak Joshi
+Claimant Contact: +91-81234-56789
+Claimant Email: deepakj.claims@fastmail.com
+Third Parties: Unknown (Hit and Run)
+Third Party Contact: N/A
+
+ASSET DETAILS
+-------------
+Asset Type: Motor Vehicle
+Asset ID / Registration: MH-12-CD-9876
+Vehicle Make/Model: Honda City (2020)
+Estimated Damage: INR 95,000
+
+CLAIM INFORMATION
+-----------------
+Claim Type: Property Damage
+Attachments: Vehicle_Damage_Photos.zip
+Initial Estimate: INR 95,000
+
+Submitted by: Deepak Joshi
+Submission Date: 02/04/2024

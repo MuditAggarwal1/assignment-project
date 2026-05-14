@@ -1,0 +1,27 @@
+{
+  "document": "FNOL_004.txt",
+  "extractedFields": {
+    "policy_number": "POL-AUTO-2023-55901",
+    "policyholder_name": "Deepak Joshi",
+    "policy_effective_date": "10/10/2023",
+    "policy_expiry_date": "09/10/2024",
+    "incident_date": "01/04/2024",
+    "incident_time": "23:45",
+    "incident_location": "Isolated stretch, Old Mumbai-Pune Highway, Maharashtra",
+    "incident_description": "Claimant states vehicle was struck by an unidentified vehicle that fled the scene. Timeline appears inconsistent with the vehicle's GPS data. Damage pattern is inconsistent with the described collision angle. A third-party mechanic indicated the damage may have been staged prior to the reported incident.",
+    "claimant_name": "Deepak Joshi",
+    "claimant_contact": "+91-81234-56789",
+    "claimant_email": "deepakj.claims@fastmail.com",
+    "third_party_name": "Unknown (Hit and Run)",
+    "third_party_contact": null,
+    "asset_type": "Motor Vehicle",
+    "asset_id": "MH-12-CD-9876",
+    "estimated_damage_inr": 95000,
+    "claim_type": "Property Damage",
+    "attachments": ["Vehicle_Damage_Photos.zip"],
+    "initial_estimate_inr": 95000
+  },
+  "missingFields": [],
+  "recommendedRoute": "Investigation Flag",
+  "reasoning": "Incident description contains fraud-indicator keywords: ['inconsistent', 'staged']. Claim has been flagged for Special Investigations Unit (SIU) review."
+}

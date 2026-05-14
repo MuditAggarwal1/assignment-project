@@ -1,0 +1,32 @@
+{
+  "document": "FNOL_005.txt",
+  "extractedFields": {
+    "policy_number": "POL-TRAVEL-2024-00871",
+    "policyholder_name": "Sneha Kapoor",
+    "policy_effective_date": null,
+    "policy_expiry_date": null,
+    "incident_date": "05/05/2024",
+    "incident_time": null,
+    "incident_location": "Charles de Gaulle Airport, Paris, France",
+    "incident_description": "Policyholder's checked baggage was lost by the airline during a connecting flight from Paris to London. Baggage contained clothing, electronics (laptop, camera), and personal effects. Airline issued a PIR report but has not located the baggage after 7 days.",
+    "claimant_name": "Sneha Kapoor",
+    "claimant_contact": null,
+    "claimant_email": "sneha.kapoor@travelmail.com",
+    "third_party_name": "Air France",
+    "third_party_contact": "Air France Customer Relations, Paris Hub",
+    "asset_type": "Personal Belongings / Travel Baggage",
+    "asset_id": "AF-2024-XKJ991",
+    "estimated_damage_inr": null,
+    "claim_type": "Travel / Baggage Loss",
+    "attachments": ["PIR_Report_AirFrance.pdf"],
+    "initial_estimate_inr": null
+  },
+  "missingFields": [
+    "policy_effective_date",
+    "claimant_contact",
+    "estimated_damage",
+    "initial_estimate"
+  ],
+  "recommendedRoute": "Manual Review",
+  "reasoning": "The following mandatory fields are missing or incomplete: ['policy_effective_date', 'claimant_contact', 'estimated_damage', 'initial_estimate']. A claims officer must collect the missing information before processing can continue."
+}
